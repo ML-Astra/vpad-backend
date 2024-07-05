@@ -6,3 +6,5 @@ coverage
 yarn-error.log
 testData.txt
 dist
+# VStudio files
+.vs
